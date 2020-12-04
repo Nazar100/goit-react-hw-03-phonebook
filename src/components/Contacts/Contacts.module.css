@@ -1,0 +1,31 @@
+ul {
+  list-style: none;
+  width: 500px;
+  background-color: rgba(126, 186, 204, 0.5);
+  padding: 40px;
+  outline: 1px solid red;
+}
+li {
+  padding: 5px;
+  margin-bottom: 20px;
+  width: 400px;
+  outline: 1px solid rgb(49, 10, 156);
+}
+.name {
+  font-size: 30px;
+  color: purple;
+  display: block;
+}
+
+.number {
+  display: block;
+
+  font-size: 25px;
+  color: sandybrown;
+}
+.button {
+  width: 150px;
+}
+.empty {
+  font-size: 35px;
+}
